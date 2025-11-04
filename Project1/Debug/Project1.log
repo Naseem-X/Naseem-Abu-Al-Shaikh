@@ -1,0 +1,94 @@
+﻿  Main.cpp
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(43,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(73,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(92,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(114,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(134,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(152,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(175,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(197,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(214,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(235,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(239,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(261,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(279,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(295,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(300,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(307,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(333,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(351,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(425,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(507,22): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUtil.h(61,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUtil.h(217,27): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUtil.h(231,27): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUser.h(155,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\LQNS-X\source\repos\Project1\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\LQNS-X\source\repos\Project1\clsMainScreen.h(10,9): error C2653: 'clsLoginScreen': is not a class or namespace name
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsMainScreen.h(10,25): error C3861: 'ShowLoginScreen': identifier not found
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsLoginScreen.h(50,3): error C2653: 'clsMainScreen': is not a class or namespace name
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsLoginScreen.h(50,18): error C3861: 'ShowMainMenue': identifier not found
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\Main.cpp(4,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\LQNS-X\source\repos\Project1\clsMainScreen.h(4,5):
+      see previous definition of 'main'
+  

@@ -1,0 +1,54 @@
+﻿  Main.cpp
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(43,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(214,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(235,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(295,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(300,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(370,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsString.h(425,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUtil.h(61,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsUser.h(155,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\LQNS-X\source\repos\Project1\clsUser.h(24,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(177,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Main.cpp')
+      C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(20,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(28,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(370,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(382,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsTotalBalancesScreen.h(61,75): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+C:\Users\LQNS-X\source\repos\Project1\Main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\LQNS-X\source\repos\Project1\clsBankClient.h(323,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\LQNS-X\source\repos\Project1\clsUser.h(308,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project1.vcxproj -> C:\Users\LQNS-X\source\repos\Project1\x64\Debug\Project1.exe
